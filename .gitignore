@@ -1,0 +1,6 @@
+/node_modules
+/.env
+/package-lock.json
+package-lock.json
+/firebase-config/socket-sso-dd2a3-firebase-adminsdk-n4j9p-b779edac41.json
+/newrelic_agent.log
